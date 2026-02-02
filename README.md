@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Sneha
+# 💫 Hi, I'm Sneha Yadav
  **S**olve | **N**etwork | **E**xplore | **H**ack | **A**chieve
  <p align="center">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
